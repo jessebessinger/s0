@@ -3,7 +3,7 @@
 Creating your own website hosted (for free) by GitHub pages.
 
 ## Fork this repository
-
+::fork::
 It contains a 'gh-pages' branch and a blank index.html file.
 You will be able to view your website at **yourusername.github.io/s0**
 
